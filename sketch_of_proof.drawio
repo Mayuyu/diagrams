@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:18:25.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="6oHHIPbVqyuchJW8259G" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:30:36.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="KdoswPuHvBxcpLZkFiMX" version="13.7.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1869" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="Ev1wTJMXK1I8TJt93S75-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;bounds on \(||\theta(t)-\theta(0)||_{\infty}\) (Proposition 19)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-60" y="700" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjNzuwPjjV0Ks_rc3ZS_-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ev1wTJMXK1I8TJt93S75-40" target="Ev1wTJMXK1I8TJt93S75-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ev1wTJMXK1I8TJt93S75-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;bounds on \(||\theta(t)-\theta(0)||_{\infty}\) (Proposition 22)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="730" y="700" width="200" height="60" as="geometry" />
