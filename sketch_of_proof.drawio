@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T07:08:33.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="0eJzw5RUMgdrjD1RweBL" version="13.7.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:08:56.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="xK2HVxy0cmeb2BXkPge1" version="13.7.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1042" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Ev1wTJMXK1I8TJt93S75-26" value="&lt;b&gt;&lt;font&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;Sketch of Proof for&amp;nbsp;Theorem 1&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="381" y="360" width="408" height="57" as="geometry" />
+        <mxCell id="Ev1wTJMXK1I8TJt93S75-26" value="&lt;b&gt;&lt;font&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;Sketch of Proof for&amp;nbsp;Theorem 1*&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="381" y="380" width="408" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Ev1wTJMXK1I8TJt93S75-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ev1wTJMXK1I8TJt93S75-27" target="Ev1wTJMXK1I8TJt93S75-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
