@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:41:39.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hvJ5eRxlVUiqHDso22fV" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:48:47.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="BuiFFumvInixg7I1pHlu" version="13.7.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1869" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="Ev1wTJMXK1I8TJt93S75-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;\(\gamma&#39;&amp;gt;\gamma-1,\gamma&#39;&amp;gt;0\) case of Thm \(1^*\) (Theorem 6)&lt;br&gt;（Proposition 25）&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="830" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sjNzuwPjjV0Ks_rc3ZS_-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sjNzuwPjjV0Ks_rc3ZS_-0" target="Ev1wTJMXK1I8TJt93S75-30">
+        <mxCell id="sjNzuwPjjV0Ks_rc3ZS_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sjNzuwPjjV0Ks_rc3ZS_-0" target="Ev1wTJMXK1I8TJt93S75-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjNzuwPjjV0Ks_rc3ZS_-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$m\geq \Omega\left(\frac{n^2\log n}{\lambda^2}\right)$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -95,6 +95,29 @@
         </mxCell>
         <mxCell id="sjNzuwPjjV0Ks_rc3ZS_-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$m\geq \Omega\left(\frac{n^2\log n}{\lambda^2}+\frac{n}{\kappa\lambda}\right)$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="690" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3tI0Nz8krrBW1EzT80GF" name="Page-2">
+    <mxGraphModel dx="1042" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="nkIKpvpyr3Hjskyua7sh-0" />
+        <mxCell id="nkIKpvpyr3Hjskyua7sh-1" parent="nkIKpvpyr3Hjskyua7sh-0" />
+        <mxCell id="-6uuCYfzElC6lJg0_LDN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="nkIKpvpyr3Hjskyua7sh-1" source="-6uuCYfzElC6lJg0_LDN-0" target="-6uuCYfzElC6lJg0_LDN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6uuCYfzElC6lJg0_LDN-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$|a_k(t)|\leq\frac{1}{\kappa&#39;}||w_k(t)||_2+|a_k^0|$$&amp;nbsp;&lt;br&gt;(Proposition 27)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nkIKpvpyr3Hjskyua7sh-1">
+          <mxGeometry x="240" y="70" width="375" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-6uuCYfzElC6lJg0_LDN-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Theorem 2* (Theorem 8)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nkIKpvpyr3Hjskyua7sh-1">
+          <mxGeometry x="279" y="400" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-6uuCYfzElC6lJg0_LDN-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="nkIKpvpyr3Hjskyua7sh-1" source="-6uuCYfzElC6lJg0_LDN-3" target="-6uuCYfzElC6lJg0_LDN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6uuCYfzElC6lJg0_LDN-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;\(\gamma&amp;gt;1\) and \(\gamma&#39;&amp;lt;\gamma-1\)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="nkIKpvpyr3Hjskyua7sh-1">
+          <mxGeometry x="520" y="270" width="223" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
