@@ -1,16 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:55:46.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="xZqKrwSyNzOMPm92QznP" version="13.7.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:08:33.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="0eJzw5RUMgdrjD1RweBL" version="13.7.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1737" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1042" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="sjNzuwPjjV0Ks_rc3ZS_-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ev1wTJMXK1I8TJt93S75-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="508" y="417" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ev1wTJMXK1I8TJt93S75-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;Sketch of Proofs&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="451" y="427" width="226" height="20" as="geometry" />
+        <mxCell id="Ev1wTJMXK1I8TJt93S75-26" value="&lt;b&gt;&lt;font&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;Sketch of Proof for&amp;nbsp;Theorem 1&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="381" y="360" width="408" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Ev1wTJMXK1I8TJt93S75-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ev1wTJMXK1I8TJt93S75-27" target="Ev1wTJMXK1I8TJt93S75-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +28,7 @@
         <mxCell id="Ev1wTJMXK1I8TJt93S75-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ev1wTJMXK1I8TJt93S75-30" target="Ev1wTJMXK1I8TJt93S75-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ev1wTJMXK1I8TJt93S75-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\lambda_{\text{min}}(G(\theta^0)\geq\frac{3}{4}\kappa^2\left(\frac{1}{\kappa&#39;}\lambda_a+\kappa&#39;\lambda_w\right)$$ (Proposition 17)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ev1wTJMXK1I8TJt93S75-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\lambda_{\text{min}}(G(\theta^0)\geq\frac{3}{4}\kappa^2\left(\frac{\lambda_a&lt;br&gt;}{\kappa&#39;}+\kappa&#39;\lambda_w\right)$$ (Proposition 17)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="687" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ev1wTJMXK1I8TJt93S75-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ev1wTJMXK1I8TJt93S75-31" target="Ev1wTJMXK1I8TJt93S75-38" edge="1">
